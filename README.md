@@ -2,7 +2,9 @@
 Wilson Lab Projects about Tracking Primate Behavior Experiments
 
 This is the folder for "Tracking Data for Primates in Primate Center" project in Wilson Lab, by Sam Feng
+
 The Github version will focus on python files, while the tracking data is classified and stored in lab PCs
+
 Here comes some explanation and directory:
 
 PY_program ----> All the Python Programs used or have used in this program
